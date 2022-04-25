@@ -1,10 +1,10 @@
 ---
 name: USER STORIES
 about: 'User Story:'
-title: ''
+title: 'USER STORY:'
 labels: ''
 assignees: ''
 
 ---
 
-As a  **  ** I can **  ** so that **  **
+As a  **** I can **** so that ****
