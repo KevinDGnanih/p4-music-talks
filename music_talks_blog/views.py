@@ -1,3 +1,5 @@
 from django.shortcuts import render
 
-# Create your views here.
+
+def home_page(request):
+    return render(request, 'music_talks_blog/blog_home_page.html')
