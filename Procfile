@@ -1,0 +1,1 @@
+web: gunicorn django_music_talks.wsgi
